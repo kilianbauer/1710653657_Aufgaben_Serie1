@@ -20,5 +20,12 @@ public class Package3 {
         int alter = 23;
         System.out.println(alter);
 
+        /*Aufgabe 4*/
+        /*Erstellen einer Variable des Typs String zur Speicherung von „Fachhochschule...“*/
+        /*Variablennamen gekürzt auf "fhKufsteinTirol"*/
+        /*Verwandeln der Variable durch das Schlüsselwort final in eine Konstante und umbenennen*/
+
+        final String fhKufsteinTirol = "FH_KUFSTEIN_TIROL";
+
     }
 }
