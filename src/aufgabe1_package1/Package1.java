@@ -1,4 +1,6 @@
-public class Aufgabe1 {
+package aufgabe1_package1;
+
+public class Package1 {
 
     /*Main Klasse erstellt*/
 

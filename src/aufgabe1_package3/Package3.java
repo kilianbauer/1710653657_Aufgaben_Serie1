@@ -1,6 +1,4 @@
-package augabe1_package3;
-
-import javax.swing.*;
+package aufgabe1_package3;
 
 public class Package3 {
 

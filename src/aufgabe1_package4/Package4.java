@@ -1,4 +1,4 @@
-package aufgabe1_Package4;
+package aufgabe1_package4;
 
 public class Package4 {
 
